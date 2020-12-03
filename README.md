@@ -7,7 +7,7 @@
 <hr>
 
 <H1>Flow</H1>
-
+<img src = "https://user-images.githubusercontent.com/43870121/100977352-340aa480-3584-11eb-8bc4-744606d332bd.png" width = "30%" height = "30%">
 
 <H1>Test Environments</H1>
 <ol> Python3 </ol>
@@ -21,7 +21,6 @@
 <ol> MedApp : Dataset Directory</ol>
 <ol> MedCamera : Android Application Project</ol>
 <ol> MedModel : Model Test Zone</ol>
-
 <hr>
 
 <H1> Using Model </H1>
@@ -29,8 +28,11 @@
 
 <H1> Test Model </H1>
 <ol> RCNN, FRCNN, Basic CNN </ol>
-
 <hr>
+
+<H1> Result </H1>
+<img src = "https://user-images.githubusercontent.com/43870121/100977358-353bd180-3584-11eb-9ac9-76451022c3fe.PNG" height = "30%" width = "30%">
+
 
 <H1> Lib </H1>
 <ol> ML  : Tensorflow, Keras, Pytorch </ol>
