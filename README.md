@@ -8,13 +8,14 @@
 
 <H1>Flow</H1>
 <img src = "https://user-images.githubusercontent.com/43870121/100977352-340aa480-3584-11eb-8bc4-744606d332bd.png" width = "30%" height = "30%">
+<ol> API SERVER : ML Studio </ol>
+<hr>
 
 <H1>Test Environments</H1>
 <ol> Python3 </ol>
 <ol> Tensorflow 1.12 </ol>
 <ol> Keras </ol>
 <ol> Ubuntu 16.04 </ol>
-<ol> etc </ol>
 <hr>
 
 <H1>Directory</H1>
@@ -24,20 +25,21 @@
 <hr>
 
 <H1> Using Model </H1>
+<img src = "https://user-images.githubusercontent.com/43870121/100979750-8e593480-3587-11eb-883b-f8b5c4707048.png" width = "50%" height = "50%">
 <ol> Basic CNN </ol>
 
 <H1> Test Model </H1>
-<ol> RCNN, FRCNN, Basic CNN </ol>
+<img src = "https://user-images.githubusercontent.com/43870121/100979746-8d280780-3587-11eb-86c2-c38f8ae54301.png" width = "50%" height = "50%">
+<ol> FRCNN, Basic CNN </ol>
+
 <hr>
 
 <H1> Result </H1>
 <img src = "https://user-images.githubusercontent.com/43870121/100977358-353bd180-3584-11eb-9ac9-76451022c3fe.PNG" height = "30%" width = "30%">
 
-
 <H1> Lib </H1>
 <ol> ML  : Tensorflow, Keras, Pytorch </ol>
 <ol> App : Transfer Lib </ol>
-
 <hr>
 
 <H1> Fonts </H1>
