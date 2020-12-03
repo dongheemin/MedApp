@@ -14,7 +14,7 @@
 <ol> Tensorflow 1.12 </ol>
 <ol> Keras </ol>
 <ol> Ubuntu 16.04 </ol>
-<ol> etc <ol>
+<ol> etc </ol>
 <hr>
 
 <H1>Directory</H1>
