@@ -8,7 +8,7 @@
 
 <H1>Flow</H1>
 <img src = "https://user-images.githubusercontent.com/43870121/100977352-340aa480-3584-11eb-8bc4-744606d332bd.png" width = "30%" height = "30%">
-<ol> API SERVER : ML Studio </ol>
+<ol> API SERVER : Using ML Studio </ol>
 <hr>
 
 <H1>Test Environments</H1>
@@ -38,7 +38,7 @@
 <img src = "https://user-images.githubusercontent.com/43870121/100977358-353bd180-3584-11eb-9ac9-76451022c3fe.PNG" height = "30%" width = "30%">
 
 <H1> Lib </H1>
-<ol> ML  : Tensorflow, Keras, Pytorch </ol>
+<ol> ML  : Tensorflow, Keras</ol>
 <ol> App : Transfer Lib </ol>
 <hr>
 
